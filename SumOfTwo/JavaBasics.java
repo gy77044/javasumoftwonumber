@@ -1,5 +1,8 @@
-public class JavaBasics{
-  public static void main(String args[]){
-    System.out.print("Hello Second");
+public class JavaBasics {
+  public static void main(String args[]) {
+    int a = 10;
+    int b = 12;
+    int sum = a + b;
+    System.out.println(sum);
   }
 }
